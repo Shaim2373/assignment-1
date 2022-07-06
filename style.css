@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.container-header{
+    background-image: url(img/donation7.jpg);
+    background-repeat: no-repeat;
+    background-size: 1920px 937px;
+    height: 1000px;
+    width: 100%;
+    text-align: center;
+    color: whitesmoke;
+}
+.pic-header{
+    font-size: 90px;
+    padding-top: 300px;
+}
+.header-button{
+    text-decoration: none;
+    padding: 10px 30px;
+    margin-top: 10px;
+    border-radius: 7px;
+    background-color: #FF5959;
+    border: none;
+    color: whitesmoke;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 30px;
+}
+.header-button a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.header-paragraph {
+    font-size: 20px;
+}
+.donate-today{
+    text-align: center;
+    margin-top: 90px;
+    font-size: 30px;
+}
+.donate-paragraph{
+    font-size: 25px;
+    color: #707070;
+}
+.donate-taka{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin: 72px 300px;
+}
+.taka{
+    text-align: center;
+    border: 2px solid #FF5959;
+    color: #FF5959;
+    background-color: #FFEEEE;
+    padding: 55px 50px;
+    border-radius: 7px;
+    margin-left: 8px;
+    font-weight: 600;
+    font-size: 40px;
+}
+.same{
+    background-color: #FAFAFA;
+    padding: 55px 50px;
+    border-radius: 7px;
+    margin-left: 8px;
+    font-size: 40px;
+    font-weight: 500;
+}
+#write-taka{
+    border: none;
+    border-bottom: 2px solid #707070;
+    width: 1200px;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px 0;
+}
+.donate-plan {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 30px;
+    margin-bottom: 60px;
+}
+.plan{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 200px;
+    border-radius: 5px;
+}
+.food{
+    background-color: #FAFAFA;
+    padding: 55px 50px;
+    border-radius: 7px;
+    margin-left: 20px;
+    font-weight: 500;
+    font-size: 15px;
+}
+.plan p{
+    font-size: 20px;
+}
+.shelter{
+    background-color: #FFEEEE;
+    padding: 55px 50px;
+    border-radius: 7px;
+    margin-left: 20px;
+    font-weight: 500;
+    font-size: 15px;
+}
+.education{
+    background-color: #FFF4D6;
+    padding: 55px 50px;
+    border-radius: 7px;
+    margin-left: 20px;
+    font-weight: 500;
+    font-size: 15px;
+}
+.our-plan{
+    margin-top: 30px;
+}
+.my-update{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+.my-update p{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.form {
+    background-color: rgb(255, 244, 214);
+    margin: 70px 210px;
+    padding: 100px 20px;
+}
+#email {
+    align-items: center;
+    padding: 18px 80px;
+    background-color: #D9D9D9;
+    border-radius: 7px 0 0 7px;
+    border: none;
+    font-size: 20px;
+    padding-top: 12px;
+}
+#button {
+    border-radius: 0 5px 5px 0;
+    padding: 20px 40px;
+    border: none;
+    background-color: #FF5959;
+    color: whitesmoke;
+    margin-left: -8px;
+}
+.footer{
+    font-size: 20px;
+    text-align: center;
+    padding: 50px 0;
+    background-color: black;
+    color: #FF5959;
+    margin-top: 175px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.footer p{
+    color: #7C9EB7;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
